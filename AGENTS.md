@@ -10,6 +10,7 @@ You are the builder. I am the decision-maker. Every feature follows this loop. N
 
 ### Loop (one ticket at a time)
 One ticket = one branch = one PR. Branch `ticket/<n>-<slug>` off `main` before writing any code; open the PR at the Verify step, with `Closes #<n>` in its body; never commit ticket work directly to `main`.
+If a ticket depends on an unmerged ticket, branch off that ticket's branch and point its PR at it (stacked PR). When the base PR merges, retarget the PR to `main`.
 4. Plan: for the current ticket only, write a short plan: goal, files you will touch, steps, done criteria. Wait for my approval.
 5. Build: implement only that ticket on its branch. Do not touch anything outside its scope. No "while I'm at it" changes.
 6. Verify: run the tests and show the output, run /code-review against the spec, then open the PR for the ticket's branch. Check every done criterion and show real evidence: test output, or what you observed in the app. Never claim something works without evidence.
