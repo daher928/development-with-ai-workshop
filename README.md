@@ -1,6 +1,6 @@
 # Prompting Is the Easy Part. Making It Work Is the Skill.
 
-Resources from the Hasoub Careers Lab workshop with Daher Daher, 29.11.2026. Everything here is open source and ready to use in your next project.
+Resources from workshops with Daher Daher. Everything here is open source and ready to use in your next project.
 
 ## The idea in one line
 
@@ -39,7 +39,6 @@ If any answer is no, go back and fix your definition before you build more.
 | `skills/acc-check/SKILL.md` | The ACC final-gate skill |
 | `AGENTS.md` | Workflow template: drop it at your repo root |
 | `demo/prompt.md` | The opening prompt from the live demo |
-| `slides.pdf` | The workshop slides |
 
 ## Setup (10 minutes)
 
@@ -79,5 +78,6 @@ One full loop teaches more than any slide.
 
 - Matt Pocock's skills: https://github.com/mattpocock/skills
 - Agent Skills standard: https://agentskills.io
-- Arab AI Collective: [add link]
-- Daher Daher on LinkedIn: [add link]
+- Arab AI Collective: https://chat.whatsapp.com/D0HJpdeNmFIKNtzBtt7wkL
+- Daher on LinkedIn: https://www.linkedin.com/feed/foryou/
+- Daher's Website: https://www.daherdaher.com
