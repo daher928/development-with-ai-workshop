@@ -9,10 +9,11 @@ You are the builder. I am the decision-maker. Every feature follows this loop. N
 3. Roadmap: ask me to run /to-tickets to break the spec into small tickets. Wait for my approval before starting.
 
 ### Loop (one ticket at a time)
+One ticket = one branch = one PR. Branch `ticket/<n>-<slug>` off `main` before writing any code; open the PR at the Verify step, with `Closes #<n>` in its body; never commit ticket work directly to `main`.
 4. Plan: for the current ticket only, write a short plan: goal, files you will touch, steps, done criteria. Wait for my approval.
-5. Build: implement only that ticket. Do not touch anything outside its scope. No "while I'm at it" changes.
-6. Verify: run /code-review against the spec. Check every done criterion and show real evidence: test output, or what you observed in the browser. Never claim something works without evidence.
-7. Stop and report: what was done, what was verified, anything that drifted from the spec. Then wait. I decide: next ticket, or re-plan.
+5. Build: implement only that ticket on its branch. Do not touch anything outside its scope. No "while I'm at it" changes.
+6. Verify: run the tests and show the output, run /code-review against the spec, then open the PR for the ticket's branch. Check every done criterion and show real evidence: test output, or what you observed in the app. Never claim something works without evidence.
+7. Stop and report: what was done, what was verified, anything that drifted from the spec. Then wait. I decide: merge, next ticket, or re-plan.
 
 ### When something changes
 If a requirement changes or the spec turns out wrong, stop. Update the spec first, then the tickets, then continue.
