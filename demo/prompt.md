@@ -9,6 +9,3 @@ Constraints: a single HTML file with plain JavaScript, no frameworks, no backend
 ```
 
 Left open on purpose, for the grilling: equal vs custom splits, rounding and the leftover cent, multiple payers per expense, how balances are shown.
-
-For the demo, the project line in AGENTS.md reads:
-"A small expense splitter for a group trip. Single HTML file, plain JavaScript, no frameworks, no backend."

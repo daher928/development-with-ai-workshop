@@ -56,7 +56,7 @@ Copy `skills/acc-check/` from this repo into your agent's skills folder (for Cla
 
 **3. Add the workflow**
 
-Copy `AGENTS.md` to your project's root. Replace the Project line with one line about your project.
+Copy `AGENTS.md` to your project's root.
 
 ## Your first loop this week
 

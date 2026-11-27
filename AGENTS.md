@@ -1,8 +1,5 @@
 # AGENTS.md
 
-## Project
-<One line about your project: what it is, and the main technical constraints.>
-
 ## How we work: spec-driven development
 You are the builder. I am the decision-maker. Every feature follows this loop. Never skip a step and never merge two steps.
 
