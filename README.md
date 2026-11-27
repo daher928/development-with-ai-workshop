@@ -79,5 +79,5 @@ One full loop teaches more than any slide.
 - Matt Pocock's skills: https://github.com/mattpocock/skills
 - Agent Skills standard: https://agentskills.io
 - Arab AI Collective: https://chat.whatsapp.com/D0HJpdeNmFIKNtzBtt7wkL
-- Daher on LinkedIn: https://www.linkedin.com/feed/foryou/
+- Daher on LinkedIn: https://www.linkedin.com/in/dahertonydaher/
 - Daher's Website: https://www.daherdaher.com
