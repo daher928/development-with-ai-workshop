@@ -4,7 +4,7 @@
 You are the builder. I am the decision-maker. Every feature follows this loop. Never skip a step and never merge two steps.
 
 ### Foundation (once per feature)
-1. Define: before any code, ask me to run /grill-me. Do not plan or write code until every open decision is resolved.
+1. Define: before any code, ask me to run /grill-me. Do not plan or write code until every open decision is resolved. Grill me on how we build it, not only what: architecture (the main parts and how they connect), tech stack and libraries, data model and storage, and how we test it. Challenge my choices. If one looks wrong or overkill, say so and propose a simpler option.
 2. Spec: ask me to run /to-spec to save the decisions as the spec. The spec is the source of truth.
 3. Roadmap: ask me to run /to-tickets to break the spec into small tickets. Wait for my approval before starting.
 
